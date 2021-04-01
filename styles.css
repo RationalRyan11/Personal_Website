@@ -1,0 +1,166 @@
+.header{
+
+    height: 60px;
+    position: fixed;
+    top: 0px;
+    background-color: grey;
+    width: 100%;
+    z-index: 10;
+}
+
+#cell {
+    display: inline-block;
+    float: left;
+}
+
+#email {
+    display: inline-block;
+    margin-left: 40%;
+    width: 40%;
+}
+
+#address {
+    display: inline-block;
+    float: right;
+    width: 200px;
+}
+
+.header li {
+    display: inline-block;
+    width: 250px;
+
+}
+
+.section {
+    position: relative;
+    top: 50px;
+    height: 200px;
+}
+
+.block {
+    height: 190px;
+    width: 60%;
+    background-color: powderblue;
+    margin: 0 auto;
+    border: black 3px solid;
+}
+
+#biosect {
+    background-image: url("./images/capetown.jpg");
+    height: 700px;
+}
+
+
+#bioblock {
+    position: relative;
+    top: 550px;
+    height: 100px;
+}
+
+#ryanpic {
+    position: absolute;
+    left: 25%;
+    display: block;
+    bottom: 100px;
+    border: black 3px solid;
+    width: 546px;
+
+
+    
+}
+
+
+#skillssect {
+    position: relative;
+    top: 50px;
+    height: 150px;
+    background-color: aqua;
+    background-image: url("./images/skillsbackground.jpg");
+}
+
+#skillsblock {
+
+    height: 140px;
+}
+
+.block h2 {
+    color: black;
+    margin: 0px auto;
+    text-align: center; 
+}
+
+.block p  {
+    text-align: center;
+}
+
+
+#extrasect {
+    position: relative;
+    top: 50px;
+    height: 600px;
+    background-color: aqua;
+    background-image: url("./images/extrabackground.jpg");
+}
+
+#extrablock {
+
+    height: 100px;
+}
+
+#ewb {
+    position: relative;
+    height: 450px;
+    width: 25%;
+    top: 20px;
+    left: 5%;
+    border: 3px black solid;
+}
+
+#urbanroots {
+    position: relative;
+    height: 450px;
+    width: 25%;
+    top: 20px;
+    left: 10%;
+    border: 3px black solid;
+}
+
+#isab {
+    position: relative;
+    height: 450px;
+    width: 25%;
+    top: 20px;
+    left: 15%;
+    border: 3px black solid;
+}
+
+#projectsect {
+    position: relative;
+    top: 50px;
+    height: 600px;
+    background-color: aqua;
+    background-image: url("./images/projectsbackground.jpg");
+}
+
+#projectblock {
+
+    height: 100px;
+}
+
+#boot {
+    position: relative;
+    height: 450px;
+    width: 25%;
+    top: 20px;
+    left: 12%;
+    border: 3px black solid;
+}
+
+#cadence {
+    position: relative;
+    height: 450px;
+    width: 25%;
+    top: 20px;
+    left: 32%;
+    border: 3px black solid;
+}
